@@ -1,1 +1,2 @@
 add file to working tree
+edit and commit at working tree
