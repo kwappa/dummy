@@ -1,7 +1,7 @@
 Trying `git revert`
 
-alfa
-blavo
-charlie
-delta
-echo
+Alfa
+Blavo
+Charlie
+Delta
+Echo
