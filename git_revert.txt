@@ -1,3 +1,7 @@
-This is new file.
-Hello, how do you do?
-I'm fine. Thank you.
+Trying `git revert`
+
+alfa
+blavo
+charlie
+delta
+echo
